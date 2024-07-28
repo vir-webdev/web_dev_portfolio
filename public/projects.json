@@ -1,0 +1,67 @@
+[
+    {
+      "project_id": 1,
+      "project_img": "https://i.pinimg.com/originals/a6/18/bf/a618bff6c102f25dc0cc488ecfe70677.jpg",
+      "title": "coffee shop",
+      "description": "A detailed description of Project One.",
+      "projectlanguages": ["JavaScript", "React", "Node.js"],
+      "prj_link": "https://example.com/projects/project-one"
+    },
+    {
+      "project_id": 2,
+      "project_img": "https://example.com/images/project2.jpg",
+      "title": "Project Two",
+      "description": "A detailed description of Project Two.",
+      "projectlanguages": ["Python", "Django"],
+      "prj_link": "https://example.com/projects/project-two"
+    },
+    {
+      "project_id": 3,
+      "project_img": "https://example.com/images/project3.jpg",
+      "title": "Project Three",
+      "description": "A detailed description of Project Three.",
+      "projectlanguages": ["Java", "Spring Boot"],
+      "prj_link": "https://example.com/projects/project-three"
+    },
+    {
+      "project_id": 4,
+      "project_img": "https://example.com/images/project4.jpg",
+      "title": "Project Four",
+      "description": "A detailed description of Project Four.",
+      "projectlanguages": ["C#", ".NET"],
+      "prj_link": "https://example.com/projects/project-four"
+    },
+    {
+      "project_id": 5,
+      "project_img": "https://example.com/images/project5.jpg",
+      "title": "Project Five",
+      "description": "A detailed description of Project Five.",
+      "projectlanguages": ["PHP", "Laravel"],
+      "prj_link": "https://example.com/projects/project-five"
+    },
+    {
+      "project_id": 6,
+      "project_img": "https://example.com/images/project6.jpg",
+      "title": "Project Six",
+      "description": "A detailed description of Project Six.",
+      "projectlanguages": ["Ruby", "Rails"],
+      "prj_link": "https://example.com/projects/project-six"
+    },
+    {
+      "project_id": 7,
+      "project_img": "https://example.com/images/project7.jpg",
+      "title": "Project Seven",
+      "description": "A detailed description of Project Seven.",
+      "projectlanguages": ["Swift", "iOS"],
+      "prj_link": "https://example.com/projects/project-seven"
+    },
+    {
+      "project_id": 8,
+      "project_img": "https://example.com/images/project8.jpg",
+      "title": "Project Eight",
+      "description": "A detailed description of Project Eight.",
+      "projectlanguages": ["Kotlin", "Android"],
+      "prj_link": "https://example.com/projects/project-eight"
+    }
+  ]
+  

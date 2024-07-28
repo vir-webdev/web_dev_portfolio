@@ -1,0 +1,55 @@
+/* components/css_files/about.css */
+.about {
+    flex: 1;
+    padding: 10px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.about.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1%; /* Adds 5% margin between the cards */
+}
+
+.card {
+    /* padding: 20px; */
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.card-1 {
+    flex: 0 1 70%;
+}
+
+.card-2 {
+    flex: 0 1 30%;
+}
+
+.card.dark {
+    background-color: #444;
+    color: #fff;
+}
+.card-1 img {
+    height:60vh;
+    margin-bottom: 0px;
+}
+.typing-effect {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+.loader-container {
+    position: relative;
+    width: 160px;
+    height: 100px;
+  }
+  
+  
