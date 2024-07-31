@@ -41,7 +41,7 @@ const ProjectList = () => {
           <h3 className="project-title">{project.title}</h3>
           <p className="project-description">{project.description}</p>
           <p className="project-languages">
-            Languages: {project.projectlanguages.join(', ')}
+            Languages: {project.projectlanguages.join(',')}
           </p>
           <a href={project.prj_link} target="_blank" rel="noopener noreferrer" className="project-link">
             View Project
