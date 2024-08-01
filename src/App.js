@@ -1,26 +1,12 @@
-// App.js
-import React, { useState } from 'react';
-import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
-import About from './components/About';
-import './App.css';
+import React from 'react';
+import ProductList from './components/ProductList';
 
 const App = () => {
-    const [darkMode, setDarkMode] = useState(true);
-
-    const toggleDarkMode = () => {
-        setDarkMode(!darkMode);
-    };
-
-    return (
-        <div className={`app ${darkMode ? 'dark' : ''}`}>
-            <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
-            <div className='wrap1'>
-            <Sidebar darkMode={darkMode} />
-            <About darkMode={darkMode} />
-            </div>
-        </div>
-    );
+  return (
+    <div>
+      <ProductList />
+    </div>
+  );
 };
 
 export default App;

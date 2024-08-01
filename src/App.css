@@ -1,35 +1,4 @@
-/* app.css */
-.app.dark {
-    background-color: #333;
-    color: #fff;
-}
-
-/* navbar.css */
-.navbar.dark {
-    background-color: #444;
-    color: #fff;
-}
-
-.dark-mode-toggle {
-    background: none;
-    border: none;
-    color: inherit;
-    cursor: pointer;
-}
-
-/* sidebar.css */
-.sidebar.dark {
-    background-color: #444;
-    color: #fff;
-}
-.wrap1{
-    display: flex;
-}
-
-
-.oswald{
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  /* font-weight: <weight>; */
-  font-style: normal;
+*{
+    margin: 0;
+    padding: 0;
 }
